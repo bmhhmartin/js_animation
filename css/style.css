@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+ol,
+ul {
+    list-style: none;
+}
+
+a,
+a:hover {
+    text-decoration: none !important;
+}
+
+img {
+    border: 0px;
+}
+
+h1,h2,h3,h4,h5,h6,ol,ul,p,address {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+@font-face {
+    font-family: poppin_medium;
+    src: url(../fonts/text/Poppins-Medium.ttf);
+}
+/*main css start now*/
+
+        .bg-1{
+            background: #810d0d;
+        }
+        .bg-2{
+            background: #6a1aea;
+        }
+        .bg-3{
+            background: #35810d;
+        }
+        .bg-4{
+            background: #810d66;
+        }

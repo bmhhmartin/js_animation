@@ -1,0 +1,36 @@
+@media (min-width: 320px){
+     .bg-1{
+            background: skyblue !important;
+        }
+}
+/*Extra Small devices (landscape phones, 320px and up)*/
+
+@media (min-width: 576px) and (max-width: 767px) {
+     .bg-1{
+            background: blue !important;
+        }
+}
+/*Small devices (landscape phones, 576px and up)*/
+
+@media (min-width: 768px) and (max-width: 991px) {
+     .bg-1{
+            background: green !important;
+        }
+}
+/*Medium devices (tablets, 768px and up)*/
+
+@media (min-width: 992px) and (max-width: 1200px) {
+     .bg-1{
+            background: #7c7c7c !important;
+        }
+}
+/*Large devices (desktops, 992px and up)*/
+
+@media (min-width: 1200px){
+     .bg-1{
+            background: #e0fd00 !important;
+        }
+}
+/*Extra large devices (large desktops, 1200px and up)*/
+
+
